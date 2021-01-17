@@ -1,0 +1,13 @@
+#img-div{
+    width:50%;
+    
+  }
+  #image{
+    max-width:100%;
+    display:block;
+    height:auto;
+    float:center;
+  }
+  #img-caption{
+    
+  }
