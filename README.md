@@ -1,6 +1,6 @@
-# Expense Tracker (MERN)
+# JWT Authentication using MERN
 
-> Full stack expense tracker
+
 
 ## Usage
 
